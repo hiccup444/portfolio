@@ -30,7 +30,7 @@ export const Navbar: React.FC = () => {
           <div className="flex-shrink-0 flex items-center gap-2 cursor-pointer" onClick={() => window.scrollTo(0,0)}>
             <Gamepad2 className="h-8 w-8 text-neon-blue animate-pulse-slow" />
             <span className="font-mono font-bold text-xl tracking-tighter text-white">
-              DEV<span className="text-neon-blue">.LOG</span>
+              GARY STAMBAUGH<span className="text-neon-blue">.DEV</span>
             </span>
           </div>
           
